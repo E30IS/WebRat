@@ -6,18 +6,21 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p style="text-align:center">
-  A Read Me template for your projects!
-  <br />
-  <a href="https://github.com/E30IS/WebRat/"><strong>Explore the docs »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/E30IS/WebRat/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/E30IS/WebRat">Request Feature</a>
-  ·
-  <a href="https://github.com/E30IS/WebRat/pulls">Send a Pull Request</a>
-</p>
+<div style="text-align:center">
+  <h3>WebRat!</h3>
+  <p>
+    A Read Me template for your projects!
+    <br />
+    <a href="https://github.com/E30IS/WebRat/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/E30IS/WebRat/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/E30IS/WebRat">Request Feature</a>
+    ·
+    <a href="https://github.com/E30IS/WebRat/pulls">Send a Pull Request</a>
+  </p>
+</div>
 
 
 <!-- ABOUT THE PROJECT -->
