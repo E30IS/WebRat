@@ -1,6 +1,3 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 <h4 align="center">A Tool With Attractive Capabilities!</h4>
 
@@ -15,6 +12,7 @@
   </a>
 
 </p>
+
 
 
 
