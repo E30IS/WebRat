@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/bash-v3">
+    <img src="https://img.shields.io/badge/bash-v3-blue">
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img src="https://img.shields.io/badge/Platform-Linux-red">
