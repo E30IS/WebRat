@@ -13,7 +13,7 @@ nikto -h $WEBSITE
 
 # Use Dirb to enumerate directories
 echo "Enumerating directories on $WEBSITE"
-dirb http://$WEBSITE
+dirb -u http://$WEBSITE
 
 # Use Wapiti to check for vulnerabilities
 echo "Checking for vulnerabilities using Wapiti on $WEBSITE"
