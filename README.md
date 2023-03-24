@@ -16,12 +16,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This is a basic website penetration testing script that asks for a website URL and performs several tests to identify vulnerabilities. It scans for open ports using Nmap, checks for known vulnerabilities using Nikto, enumerates directories using Dirb, checks for vulnerabilities in the website's code using Wapiti, and performs a manual penetration test using Burp Suite. This script is useful for website owners or security professionals who want to quickly and easily test their website for vulnerabilities, but it should be used in conjunction with other security measures to ensure a website is fully protected.
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/E30IS/WebRat)
-
-
-### Built With
-This script was used by the power of:
+### Built With The Power of:
 * [BASH](https://www.gnu.org/software/bash/)
 
 
