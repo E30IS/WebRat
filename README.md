@@ -3,12 +3,11 @@
 [![Issues][issues-shield]][issues-url]
 
 
-
-<!-- PROJECT LOGO -->
 <br />
-<div style="text-align:center">
-  <h3>WebRat!</h3>
-  <p>
+<p align="center">
+  <h3 align="center">WebRat!</h3>
+
+  <p align="center">
     A Read Me template for your projects!
     <br />
     <a href="https://github.com/E30IS/WebRat/"><strong>Explore the docs »</strong></a>
@@ -20,7 +19,8 @@
     ·
     <a href="https://github.com/E30IS/WebRat/pulls">Send a Pull Request</a>
   </p>
-</div>
+</p>
+
 
 
 <!-- ABOUT THE PROJECT -->
