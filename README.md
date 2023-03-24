@@ -2,10 +2,8 @@
 <h4 align="center">A Tool With Attractive Capabilities!</h4>
 
 <p align="center">
-
-  <a href="https://github.com/E30IS/WebRat/">Explore the docs
-  </a>
-  <a href="https://github.com/E30IS/WebRat/issues">Report Bug
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/bash-v3">
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img src="https://img.shields.io/badge/Platform-Linux-red">
