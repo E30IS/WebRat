@@ -2,23 +2,18 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
+<h4 align="center">A Tool With Attractive Capabilities!</h4>
 
-<br />
 <p align="center">
-  <h3 align="center">WebRat!</h3>
 
-  <p align="center">
-    A Read Me template for your projects!
-    <br />
-    <a href="https://github.com/E30IS/WebRat/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/E30IS/WebRat/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/E30IS/WebRat">Request Feature</a>
-    ·
-    <a href="https://github.com/E30IS/WebRat/pulls">Send a Pull Request</a>
-  </p>
+  <a href="https://github.com/E30IS/WebRat/">Explore the docs
+  </a>
+  <a href="https://github.com/E30IS/WebRat/issues">Report Bug
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linux">
+    <img src="https://img.shields.io/badge/Platform-Linux-red">
+  </a>
+
 </p>
 
 
